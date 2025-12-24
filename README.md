@@ -26,6 +26,7 @@ How to Run
 1. Clone or download this repository.  
 2. Install required Python packages (Pandas, Plotly, Matplotlib, Seaborn).  
 3. Open the Jupyter Notebook and run all cells to reproduce the analysis and interactive plots.
+4. Plots are uploaded seperately as they are live plots
 
 
  
